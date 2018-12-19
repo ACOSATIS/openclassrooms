@@ -1,2 +1,2 @@
 # openclassrooms
-recence les exercices issus d'poenclassrooms
+recence les exercices issus d'openclassrooms
